@@ -36,3 +36,7 @@ which if any licence is best. (Quick report back if time}.
 ### Course wrap-up
 * What have we learnt this afternoon?    
 [Further reading: Github learning](https://lab.github.com/courses).   
+
+### Extra links
+* [Choose a license](https://choosealicense.com/)
+* [Choose a creative commons license](https://creativecommons.org/choose/)
