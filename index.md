@@ -28,13 +28,13 @@ If you don’t have it installed already, it will prompt you to install it.</li>
 <details>
     <summary>For Linux</summary>
     <p>Install command-line git<br>   
-  <ul>
+    <ul>
     <li>On Fedora (or similar RPM-based distribution e.g. RHEL or CentOS)<br>
       <blockquote> $ sudo dnf install git-all </blockquote></li>
-  <li> On a Debian-based distribution (e.g. Ubuntu <br>
+    <li> On a Debian-based distribution (e.g. Ubuntu <br>
     <blockquote> $ sudo apt install git-all </<blockquote> </li>
     </ul></p>
-</details>
+</details> <br>
 
 ### Github Web-pages
 [Practical - live-coding session using Markdown](https://mfernandes61.github.io/github_web_course/).  
