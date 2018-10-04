@@ -28,12 +28,11 @@ If you don’t have it installed already, it will prompt you to install it.</li>
 <details>
     <summary>For Linux</summary>
     <p>  
-    <ul>
-    <li>On Fedora (or similar RPM-based distribution e.g. RHEL or CentOS)<br>
-      <blockquote> $ sudo dnf install git-all </blockquote> </li>
-    <li> On a Debian-based distribution (e.g. Ubuntu <br>
-      <blockquote> $ sudo apt install git-all </<blockquote> </li>
-    </ul></p>
+On Fedora (or similar RPM-based distribution e.g. RHEL or CentOS)<br>
+      <blockquote> $ sudo dnf install git-all </blockquote>
+On a Debian-based distribution (e.g. Ubuntu <br>
+      <blockquote> $ sudo apt install git-all </<blockquote>
+    </p>
 </details> <br>
 
 ### Github Web-pages
@@ -67,6 +66,7 @@ it would/would not meet the needs of their software project)- (Ditch this one if
 [Slides used from SoftwareSaved](https://softwaresaved.github.io/software-licensing-workshop/#/).  
 • Practical - take a Flashcard. Look at the scenario printed on it - in your group discuss and decide upon
 which if any licence is best. (Quick report back if time}.  
+[You can print the cards using this file](Git_training_licence_flashcards.pdf).  
 
 ### Course wrap-up
 * What have we learnt this afternoon?    
