@@ -1,6 +1,30 @@
 ## Git Workshop
 ### Afternoon session (13:30- 16:00).  
 
+### Requirements
+* Computer with an internet connection
+* Git software installed on computer
+<details>
+    <summary>For Mac</summary>
+    <p>Install command-line git.  
+       Install Git Desktop (Optional)</p>
+</details>
+<details>
+    <summary>For Windows</summary>
+    <p>Install command-line git.  
+       Install Git Desktop (Optional)</p>
+</details>
+<details>
+    <summary>For Linux</summary>
+    <p>Install command-line git<br>   
+  <ul>
+    <li>On Fedora (or similar RPM-based distribution e.g. RHEL or CentOS)<br>
+      <blockquote> $ sudo dnf install git-all </blockquote></li>
+  <li> On a Debian-based distribution (e.g. Ubuntu <br>
+    <blockquote> $ sudo apt install git-all </<blockquote> </li>
+</p>
+</details>
+
 ### Github Web-pages
 [Practical - live-coding session using Markdown](https://mfernandes61.github.io/github_web_course/).  
 * Using Markdown to create a Github Page (practical - live-code a Page).  
