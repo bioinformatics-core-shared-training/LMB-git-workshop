@@ -27,11 +27,10 @@ If you don’t have it installed already, it will prompt you to install it.</li>
 </details>
 <details>
     <summary>For Linux</summary>
-    <p>  
-On Fedora (or similar RPM-based distribution e.g. RHEL or CentOS)<br>
+    <p>On Fedora (or similar RPM-based distribution e.g. RHEL or CentOS)<br>
       <blockquote> $ sudo dnf install git-all </blockquote>
 On a Debian-based distribution (e.g. Ubuntu <br>
-      <blockquote> $ sudo apt install git-all </<blockquote>
+      <blockquote> $ sudo apt install git-all </blockquote>
     </p>
 </details> <br>
 
