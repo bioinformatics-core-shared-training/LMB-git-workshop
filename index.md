@@ -29,7 +29,6 @@ If you don’t have it installed already, it will prompt you to install it.</li>
     <summary>For Linux</summary>
     <p>  
     <ul>
-    Install command-line git<br>
     <li>On Fedora (or similar RPM-based distribution e.g. RHEL or CentOS)<br>
       <blockquote> $ sudo dnf install git-all </blockquote> </li>
     <li> On a Debian-based distribution (e.g. Ubuntu <br>
