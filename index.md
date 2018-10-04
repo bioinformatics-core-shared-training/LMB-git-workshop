@@ -1,4 +1,7 @@
 ## Git Workshop
+### Morning session (10:00 - 12:00)
+[Introduction to git, Github, git clients and Github repositories](https://github.com/semacu/20181003_Intro_git_GitHub/blob/master/README.md)
+
 ### Afternoon session (13:30- 16:00).  
 
 ### Requirements
