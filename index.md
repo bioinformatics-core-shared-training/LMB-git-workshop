@@ -37,7 +37,7 @@ On a Debian-based distribution (e.g. Ubuntu <br>
     </p>
 </details> <br>
 
-### Github Web-pages
+### Markdown, Github Web-pages & Github Wikis
 [Practical - live-coding session using Markdown](https://mfernandes61.github.io/github_web_course/).  
 * Using Markdown to create a Github Page (practical - live-code a Page).  
 * Using Markdown to create a Github Wiki (Practical - live-code a Wiki).  
