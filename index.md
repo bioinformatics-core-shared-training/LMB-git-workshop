@@ -6,8 +6,15 @@
 * Git software installed on computer
 <details>
     <summary>For Mac</summary>
-    <p>Install command-line git.  
-       Install Git Desktop (Optional)</p>
+    <p>Install command-line git.<br>
+    <ul> 
+    <li>On Mavericks (10.9) or above from Terminal try to run git.<br>     
+    <blockquote> $ git --version  </blockquote> 
+If you don’t have it installed already, it will prompt you to install it.</li>
+       <li>Install Git Desktop (Optional) NB This is also another way to install the command-line git client.<br>
+       Download from the Desktop web-site(https://desktop.github.com)<br></li>    
+       </ul>
+       </p>
 </details>
 <details>
     <summary>For Windows</summary>
@@ -22,6 +29,7 @@
       <blockquote> $ sudo dnf install git-all </blockquote></li>
   <li> On a Debian-based distribution (e.g. Ubuntu <br>
     <blockquote> $ sudo apt install git-all </<blockquote> </li>
+    </ul>
 </p>
 </details>
 
