@@ -1,6 +1,7 @@
 # Git-workshop
 Customised Git course.  
-* First presentation 3/10/18 by Anne & Mark.  
+This course was assembled and delivered by 3 of the Cambridge University [Data Champions](https://www.data.cam.ac.uk/intro-data-champions)
+* First presentation 3/10/18 by Anne & Mark & Sergio.  
 
 ### Goals:
 
