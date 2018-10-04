@@ -33,8 +33,7 @@ If you don’t have it installed already, it will prompt you to install it.</li>
       <blockquote> $ sudo dnf install git-all </blockquote></li>
   <li> On a Debian-based distribution (e.g. Ubuntu <br>
     <blockquote> $ sudo apt install git-all </<blockquote> </li>
-    </ul>
-</p>
+    </ul></p>
 </details>
 
 ### Github Web-pages
