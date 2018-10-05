@@ -11,6 +11,7 @@ This course was assembled and delivered by 3 of the Cambridge University [Data C
 * Choosing the appropriate licence for your project.   
 
 __Acknowledgements: This course utilises materials from a variety of sources__ .   
+* Introduction to git & Github by [semacu](https://github.com/semacu)
 * Github pages & wikis by [mfernandes61](https://github.com/mfernandes61).   
 * [Issue Tracking](issue-tracking.md) and continuous integration by [pajanne](https://github.com/pajanne).   
 * Licencing talk by [Software Sustainability Institute](https://www.software.ac.uk).  
